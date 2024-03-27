@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: auto;
+  height: 100vh;
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background-color: #b5c8c9;
+}
+
